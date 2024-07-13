@@ -12,6 +12,8 @@
             "location": "https://github.com/truecharts/charts/tree/master/charts/stable/jdownloader2",
             "latest_version": "18.1.3",
             "latest_app_version": "24.01.1",
+            "latest_human_version": "24.01.1_0.0.1",
+            "last_update": "2024-07-12 13:38:38",
             "name": "jdownloader",
             "recommended": false,
             "title": "JDownloader",
