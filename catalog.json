@@ -27,6 +27,9 @@
             "tags": [
                 "downloader"
             ],
+            "screenshots": [
+                "https://jdownloader.org/_media/screenshots/05/collapsed.png?w=120&h=75"
+            ],
             "sources": [
                 "https://github.com/mirror/jdownloader",
                 "https://github.com/truecharts/charts/tree/master/charts/stable/jdownloader2"
